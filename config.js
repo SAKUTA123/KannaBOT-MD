@@ -6,6 +6,7 @@ Rominaru
 Kannachann
 The.sad.Boy01
 Rasel comel
+Papa-Chan
 Xtreshe (Beban)
 Dll
 */
@@ -48,26 +49,26 @@ global.sdc = 'https://t.me/BotzzMeeOFC'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '083174508962'
-global.povo = '083174508962'
-global.pgopay = '083174508962'
-global.ppulsa = '083174508962'
-global.ppulsa2 = '08979530736'
-global.psaweria = 'https://saweria.co/BaraXDz'
+global.pdana = 'kosong'
+global.povo = 'kosong'
+global.pgopay = 'kosong'
+global.ppulsa = '087752078797'
+global.ppulsa2 = 'kosong'
+global.psaweria = 'kosong'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '628979530736'
-global.nomorown = '6283174508962'
-global.namebot = 'BotzzMee-Md【﻿ＸｘＹｚ】'
-global.nameown = 'BaraXD'
+global.nomorbot = '6287760550924'
+global.nomorown = '6287760550924'
+global.namebot = 'Sad-BotzV1【﻿ＸｘＹｚ】'
+global.nameown = 'Papa-Chan'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962', 'BotzzMee-Md【﻿ＸｘＹｚ】', true]
+  ['6287760550924'],
+  ['6287760550924'],
+  ['6287760550924', 'Papa-Chan ', true],
+  ['6287752078797', 'Sad-Botz【﻿ＸｘＹｚ】', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -112,13 +113,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'BotzzMee-Md【﻿ＸｘＹｚ】' //Main Watermark
-global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ BotzzMee-Md¨˜ˆ”°⍣~•⊹٭„¸'
-global.wm3 = '☘︎ ʙᴏᴛᴢᴢᴍᴇᴇ-MD'
+global.wm = 'Sad-Botz【﻿ＸｘＹｚ】' //Main Watermark
+global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ Sad-Botz¨˜ˆ”°⍣~•⊹٭„¸'
+global.wm3 = '☘︎ Sad-Botz'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = '┄┄┄┅┅❑ 𝗕𝗮𝗿𝗮𝗫𝗗 ❑┅┅┄┄┄'
+global.author = '┄┄┄┅┅❑ Papa-Chan ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/

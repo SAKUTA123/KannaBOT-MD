@@ -65,7 +65,7 @@ global.nameown = 'Papa-Chan'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6287760550924'],
+  ['6285656413857'],
   ['6287760550924'],
   ['6287760550924', 'Papa-Chan ', true],
   ['6287752078797', 'Sad-Botz【﻿ＸｘＹｚ】', true]
@@ -114,7 +114,7 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = 'Sad-Botz【﻿ＸｘＹｚ】' //Main Watermark
-global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ Sad-Botz¨˜ˆ”°⍣~•⊹٭„¸'
+global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨Sad-Botz¨˜ˆ”°⍣~•⊹٭„¸'
 global.wm3 = '☘︎ Sad-Botz'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
